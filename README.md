@@ -22,3 +22,12 @@ This project uses the Wine Quality (Red Wine) dataset from the UCI Machine Learn
 - Seaborn
 - Scikit-learn
 - SHAP
+## Project Visualizations
+
+### Correlation Heatmap
+
+![Correlation Heatmap](Correlation%20Heatmap.png)
+
+### Random Forest Feature Importance
+
+![Random Forest Feature Importance](Random%20Forest%20Feature%20Importance.png)
